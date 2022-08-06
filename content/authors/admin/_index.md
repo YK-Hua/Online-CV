@@ -11,7 +11,7 @@ role: Master Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Southern University of Science and Technology
-    url: https://www.http://www.sustech.edu.cn/en/
+    url: http://www.sustech.edu.cn/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
