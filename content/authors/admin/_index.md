@@ -17,7 +17,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
+research experiences:
   - Layered transition metal cathodes for Li-ion batteries
   - Quasi-solid electrolyte for supercapacitors
   - Silicon anodes for Li-ion batteries
@@ -25,12 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Master in Materials and Chemical Industry
-      institution: Southern University of Science and Technology
-      year: 2022
-    - course: Bachelor in Advanced Energy Materials and Technology
-      institution: Sichuan University
-      year: 2020
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -67,7 +70,7 @@ email: 'huayingkai123@gmail.com'
 highlight_name: true
 ---
 
-I am a master student under supervision of Prof. Dr. Jun Feng at the Department of Materials Science and Engineering, Southern University of Science and Technology. 
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
