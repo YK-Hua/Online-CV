@@ -17,7 +17,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-Research Experience:
+Experiences:
   - Layered transition metal cathodes for Li-ion batteries
   - Quasi-solid electrolyte for supercapacitors
   - Silicon anodes for Li-ion batteries
