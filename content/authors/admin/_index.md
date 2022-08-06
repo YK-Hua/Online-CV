@@ -5,7 +5,6 @@ bio: ""
 interests:
   - Layered transition metal cathodes for Li-ion batteries
   - Solid-state electrolytes
-<<<<<<< HEAD
   - In-situ characterization techniques
 
 # Education to show in About widget
@@ -23,8 +22,7 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 =======
-  - In-situ charaterization techniques
->>>>>>> 97bb5508d19784aae4db40859ed1b9b2c025b497
+  
 social:
   - icon: envelope
     icon_pack: fas
@@ -58,8 +56,7 @@ highlight_name: true
 ---
 I am a master student under supervision of Prof. Dr. Jun Feng at the Department of Materials Science and Engineering, Southern University of Science and Technology. Besides, I am very fortunate to be guided by Prof. Dr. Xin He and Dr. Haodong Liu. Under their guidance, I carried out the research of layered transition metal cathodes.
 
-<<<<<<< HEAD
-I am a master student under supervision of Prof. Dr. Jun Feng at the Department of Materials Science and Engineering, Southern University of Science and Technology. Besides, I am very fortunate to be guided by Prof. Dr. Xin He and Dr. Haodong Liu. Under their guidance, I carried out research of layered transition metal cathodes.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 =======
