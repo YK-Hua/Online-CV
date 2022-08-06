@@ -18,7 +18,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 Research Experience:
-  - Layered transition metal cathodes (NCM) for Li-ion batteries
+  - Layered transition metal cathodes for Li-ion batteries
   - Quasi-solid electrolyte for supercapacitors
   - Silicon anodes for Li-ion batteries
 
