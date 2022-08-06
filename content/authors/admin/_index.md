@@ -20,13 +20,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Layered transition metal cathodes for Li-ion batteries
   - Solid-state electrolytes
-  - In-situ charaterization techniques
+  - In-situ characterization techniques
 
 # Education to show in About widget
 education:
   courses:
     - course: Master in Materials and Chemical Industry
-      institution: Stanford University
+      institution: Southern University of Science and Technology
       year: 2022
     - course: Master in Advanced Energy Materials and Devices
       institution: Sichuan University
@@ -67,8 +67,6 @@ email: 'huayingkai123@gmail.com'
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a master student under supervision of Prof. Dr. Jun Feng at the Department of Materials Science and Engineering, Southern University of Science and Technology. Besides, I am very fortunate to be guided by Prof. Dr. Xin He and Dr. Haodong Liu. Under their guidance, I carried out research of layered transition metal cathodes.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
